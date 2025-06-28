@@ -1,9 +1,10 @@
 TCS Stock Market Analysis Project
 Leveraging SQL, Power BI, and Excel for Data-Driven Insights
-📌 Project Overview
+
+📌 Project Overview:
 The TCS Stock Market Analysis Project is a comprehensive study of Tata Consultancy Services (TCS) stock performance over multiple years. By integrating SQL for data management, Power BI for visualization, and Excel for advanced calculations, this project provides key insights into price trends, trading volumes, volatility, and financial metrics. The project aims to support investors, traders, and financial analysts in making informed decisions based on historical stock data.
 
-🎯 Objectives
+🎯 Objectives:
 ✔ Analyze historical stock trends to identify bullish and bearish phases.
 ✔ Assess trading volumes to determine liquidity and investor sentiment.
 ✔ Perform statistical and predictive analysis using moving averages and volatility measures.
@@ -12,18 +13,18 @@ The TCS Stock Market Analysis Project is a comprehensive study of Tata Consultan
 ✔ Use SQL for data extraction, transformation, and querying.
 ✔ Implement Excel models for portfolio analysis, RSI, and financial ratios.
 
-🛠 Technology Stack
+🛠 Technology Stack:
 ✅ SQL – Data extraction, transformation, and querying.
 ✅ Power BI – Interactive dashboards and visual analytics.
 ✅ Excel – Advanced calculations, pivot tables, and forecasting.
 
-📊 Data Sources & Processing
+📊 Data Sources & Processing:
 This project uses historical stock data from NSE/BSE, sourced from:
 📌 Stock Market APIs (Yahoo Finance, Alpha Vantage, NSE, BSE)
 📌 TCS Annual Reports & Financial Statements
 📌 Global Macroeconomic Data (Inflation, Interest Rates, Index Movements)
 
-🔹 Data Cleaning & Preparation (SQL)
+🔹 Data Cleaning & Preparation (SQL):
 Before analysis, the data undergoes preprocessing using SQL:
 
 Removing duplicates & handling missing values.
